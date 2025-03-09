@@ -1,11 +1,11 @@
-<form action="action_page.php">
+<form action="action_page.php" method="post">
   <div class="container">
     <h1>Saidemy DevOps Student Registration!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Email Id</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
